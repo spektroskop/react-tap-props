@@ -1,6 +1,6 @@
 {
   "name": "react-tap-props",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "lib/tapProps.js",
   "license": "MIT",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "ramda": "^0.19.1",
-    "react-util": "github:spektroskop/react-util"
+    "react-util": "github:spektroskop/react-util#v0.1.0"
   },
   "devDependencies": {
     "babel-cli": "^6.4.5",
